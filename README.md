@@ -5,6 +5,7 @@ A powerful Streamlit-based application that extracts, analyzes, chunks, summariz
 Supports **PDF, DOCX, TXT**, provides a beautiful UI, live chat, analytics, and full-document contextual question answering.
 
 ---
+<img width="1919" height="1006" alt="Screenshot 2025-12-03 000711" src="https://github.com/user-attachments/assets/93dc3a93-b8c3-4433-bdf8-ee87ee7561d3" />
 
 ## 🚀 Features
 
@@ -35,6 +36,7 @@ Supports **PDF, DOCX, TXT**, provides a beautiful UI, live chat, analytics, and 
   - Explanation  
   - Code generation  
   - General chat  
+<img width="1919" height="1015" alt="Screenshot 2025-12-03 000956" src="https://github.com/user-attachments/assets/264b520b-c293-4785-bb8a-22e1f01295ff" />
 
 ### 🎨 Beautiful UI
 - Gradient headers  
